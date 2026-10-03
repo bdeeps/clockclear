@@ -1,0 +1,982 @@
+{
+ "title": "The history of the clock",
+ "tagline": "3,500 years from a shadow on the ground in Egypt to the quartz clock on your wall and atoms that count the second.",
+ "intro": "People first told the time from shadows and from dripping or sinking water. Around 1300 someone in Europe made wheels tick with a falling weight and an escapement, but those clocks drifted by many minutes a day. In 1656 Christiaan Huygens added a pendulum and clocks became about sixty times better. Three centuries of clever fixes followed, until a vibrating quartz crystal, and then atoms, took over the pendulum's job.",
+ "eras": [
+  {
+   "id": "flow",
+   "name": "Sun, water and sinking bowls",
+   "from": -1500,
+   "to": 1270,
+   "color": "#c49bff",
+   "summary": "No ticking yet. People read the time from moving shadows and from water that drips, fills or sinks a bowl at a steady rate."
+  },
+  {
+   "id": "wheels",
+   "name": "Weights and wheels",
+   "from": 1270,
+   "to": 1656,
+   "color": "#ffb547",
+   "summary": "A falling weight turns a train of gears, and an escapement lets it go one tooth at a time. Clocks tick and strike bells, but drift by many minutes a day."
+  },
+  {
+   "id": "pendulum",
+   "name": "The pendulum takes charge",
+   "from": 1602,
+   "to": 1800,
+   "color": "#ff7a59",
+   "summary": "A swinging pendulum keeps a far steadier beat than anything before. Clockmakers tame friction and temperature, and good clocks gain a minute hand, then a seconds hand."
+  },
+  {
+   "id": "public",
+   "name": "One time for everyone",
+   "from": 1800,
+   "to": 1927,
+   "color": "#5ce1a9",
+   "summary": "Factories make clocks cheap, great tower clocks ring over cities, railways force whole countries onto one time, and the pendulum reaches its limit."
+  },
+  {
+   "id": "atoms",
+   "name": "Crystals and atoms",
+   "from": 1927,
+   "to": 2026,
+   "color": "#7aa2ff",
+   "summary": "A vibrating quartz crystal beats the pendulum, then atoms beat the crystal. The second itself is redefined by an atom."
+  },
+  {
+   "id": "wall",
+   "name": "A clock on every wall",
+   "from": 1961,
+   "to": 2026,
+   "color": "#8ef0ff",
+   "summary": "Quartz movements that run for a year on one battery make accurate clocks cheap enough for every home, and India becomes a big maker of them."
+  }
+ ],
+ "events": [
+  {
+   "year": -1500,
+   "date": "c. 1500 BCE",
+   "era": "flow",
+   "art": "eclipse",
+   "key": true,
+   "title": "Reading the time from a shadow",
+   "who": "Ancient Egyptians",
+   "where": "Egypt",
+   "country": "Egypt",
+   "text": "Among the oldest timekeepers known are Egyptian shadow clocks from about 1500 BCE. A shadow clock split the sunlit day into 10 parts, plus two twilight hours. The oldest known sundial, found in the Valley of the Kings in 2013, dates to about 1200 BCE.",
+   "why": "It is the first idea behind every clock: find something that moves steadily and count it.",
+   "sources": [
+    1,
+    0
+   ]
+  },
+  {
+   "year": -1400,
+   "date": "c. 1400 BCE",
+   "era": "flow",
+   "art": "waterdrop",
+   "title": "A clock that works at night",
+   "who": "Makers for pharaoh Amenhotep III; Amenemhet (credited)",
+   "where": "Karnak, Egypt",
+   "country": "Egypt",
+   "text": "A stone bowl from Karnak let water drip out of a small hole, and marks inside showed the hours as the level fell. It dates to the reign of Amenhotep III (c. 1417–1379 BCE) and is the oldest water clock that survives. A tomb text from about 1500 BCE credits a court official, Amenemhet, with inventing the idea.",
+   "why": "Water clocks worked in the dark and under cloud, and stayed the best clocks for nearly 3,000 years.",
+   "sources": [
+    3,
+    0,
+    1
+   ]
+  },
+  {
+   "year": 450,
+   "date": "c. 400s CE (first descriptions)",
+   "era": "flow",
+   "art": "waterdrop",
+   "title": "The sinking bowl and the 60 ghatis",
+   "who": "Indian astronomers and timekeepers",
+   "where": "India",
+   "country": "India",
+   "text": "Indian texts describe the ghati or ghatika-yantra: a small copper bowl with a tiny hole, floated on water. It slowly fills and sinks after one ghati, about 24 minutes, and a keeper strikes a gong and floats it again. Sixty ghatis made one day and night. The floating-bowl design appears in texts from about the 5th century CE, and the Hindi word for a clock, ghadi, is said to come from it.",
+   "why": "It turned time into something you could count out loud, bowl by bowl, in monasteries, palaces and towns.",
+   "sources": [
+    3,
+    4
+   ]
+  },
+  {
+   "year": 1088,
+   "date": "1088–1094",
+   "era": "flow",
+   "art": "building",
+   "key": true,
+   "title": "A clock tower run by a water wheel",
+   "who": "Su Song and his team",
+   "where": "Kaifeng, China",
+   "country": "China",
+   "text": "The official Su Song built a clock tower about 12 m tall for the Song emperor. A wooden pilot model was finished in 1088, the bronze parts were cast in 1090, and the full tower and its book were completed in 1094. A water wheel with 36 scoops turned one step each time a scoop filled, and drove a star globe, a sky-measuring sphere and figures that rang the hours. It also had the oldest known endless chain drive.",
+   "why": "The wheel moved in equal steps instead of spinning freely, an early kind of escapement, 200 years before Europe's.",
+   "box": "escapement",
+   "sources": [
+    5,
+    1,
+    0
+   ]
+  },
+  {
+   "year": 1206,
+   "date": "1206",
+   "era": "flow",
+   "art": "scroll",
+   "title": "The elephant clock",
+   "who": "Ismail al-Jazari",
+   "where": "Diyarbakir region (today Turkey)",
+   "country": "Turkey",
+   "text": "The engineer al-Jazari finished a book of ingenious machines in 1206. His elephant clock hid a sinking bowl, like the Indian ghati, inside a model elephant. Every half hour the bowl sank, a bird whistled, a ball dropped into a dragon's mouth and the driver struck a drum. His castle clock stood about 3.4 m high.",
+   "why": "It joined ideas from India, China, Greece and the Islamic world, and showed how far water clocks and automata could go.",
+   "sources": [
+    6,
+    7,
+    0
+   ]
+  },
+  {
+   "year": 1283,
+   "date": "c. 1270–1300",
+   "era": "wheels",
+   "art": "gear",
+   "key": true,
+   "title": "The first clocks that tick",
+   "who": "Unknown clockmakers",
+   "where": "Western Europe (an early record is at Dunstable Priory, England, 1283)",
+   "country": "United Kingdom",
+   "text": "Somewhere in Europe in the late 1200s, someone built a clock with no water at all. A falling weight turned the wheels, and a verge and foliot, a swinging bar pushed back and forth by a toothed wheel, held them back one tooth at a time. No one knows who or exactly when. A clock put up at Dunstable Priory in 1283 is a strong candidate for an early one.",
+   "why": "The escapement is the heart of every mechanical clock, and this was the first in Europe.",
+   "box": "escapement",
+   "sources": [
+    8,
+    0,
+    2
+   ]
+  },
+  {
+   "year": 1386,
+   "date": "c. 1386",
+   "era": "wheels",
+   "art": "hammer",
+   "title": "A clock with no face",
+   "who": "Salisbury Cathedral",
+   "where": "Salisbury, England",
+   "country": "United Kingdom",
+   "text": "The iron clock at Salisbury Cathedral is thought to date from about 1386. It has no dial and no hands: its job is to strike a bell once an hour. It is often called the oldest working clock in the world, but that is disputed, and clocks in France and Italy make the same claim.",
+   "why": "Early clocks were for the ears: the word clock comes from an old word for bell.",
+   "box": "anatomy",
+   "sources": [
+    9,
+    0
+   ]
+  },
+  {
+   "year": 1430,
+   "date": "c. 1430 to c. 1510",
+   "era": "wheels",
+   "art": "spring2",
+   "title": "Springs make clocks portable",
+   "who": "Unknown makers; Peter Henlein",
+   "where": "Burgundy and Nuremberg",
+   "country": "Germany",
+   "text": "A coiled spring can drive a clock instead of a hanging weight. The oldest spring-driven clock that survives was made about 1430 for Philip the Good, Duke of Burgundy. It has a fusee, a cone that evens out the pull as the spring runs down. By about 1510 Peter Henlein of Nuremberg was making tiny clocks to carry. He is often called the inventor of the watch, but that is disputed.",
+   "why": "Clocks could now sit on a table or hang from a belt, though they kept poor time.",
+   "sources": [
+    10,
+    0
+   ]
+  },
+  {
+   "year": 1602,
+   "date": "c. 1602 (clock design 1637–1641)",
+   "era": "pendulum",
+   "art": "pendulum",
+   "title": "Galileo and the swinging lamp",
+   "who": "Galileo Galilei and his son Vincenzio",
+   "where": "Pisa, Padua and Arcetri, Italy",
+   "country": "Italy",
+   "text": "Around 1602 Galileo found that a pendulum takes almost the same time for each swing, whether the swing is wide or narrow. Late in life, and blind, he worked out how a pendulum could run a clock and described it to his son Vincenzio, who drew it. Sources give 1637 or 1641. Vincenzio began to build it in 1649, but it was never finished.",
+   "why": "He found the steady beat that clocks had been missing.",
+   "box": "pendulum",
+   "sources": [
+    11,
+    12
+   ]
+  },
+  {
+   "year": 1656,
+   "date": "25 December 1656",
+   "era": "pendulum",
+   "art": "pendulum",
+   "key": true,
+   "title": "The pendulum clock",
+   "who": "Christiaan Huygens and Salomon Coster",
+   "where": "The Hague, Dutch Republic",
+   "country": "Netherlands",
+   "text": "The Dutch scientist Christiaan Huygens invented the first working pendulum clock, patented it in 1657 and had the clockmaker Salomon Coster build it. The best older clocks drifted by about 15 minutes a day. Pendulum clocks cut that to about 15 seconds a day; NIST says his first clock erred by less than a minute a day and later ones by less than 10 seconds. A Coster clock dated 1657 survives in Leiden.",
+   "why": "Clocks became about 60 times better almost overnight, good enough to need a minute hand.",
+   "box": "pendulum",
+   "sources": [
+    12,
+    2,
+    13
+   ]
+  },
+  {
+   "year": 1670,
+   "date": "c. 1670",
+   "era": "pendulum",
+   "art": "gear",
+   "key": true,
+   "title": "The anchor escapement",
+   "who": "Joseph Knibb or William Clement (Robert Hooke also claimed)",
+   "where": "Oxford and London, England",
+   "country": "United Kingdom",
+   "text": "A new escapement shaped like a ship's anchor let the pendulum swing only 4 to 6 degrees instead of about 100. The oldest known anchor clock was made for Wadham College, Oxford, in 1670, probably by Joseph Knibb. William Clement, who built a tower clock dated 1671, is often credited. An old claim for Robert Hooke is now doubted.",
+   "why": "A small swing keeps better time and allows a long, slow pendulum that beats once a second: the grandfather clock.",
+   "box": "escapement",
+   "sources": [
+    14,
+    15,
+    2
+   ]
+  },
+  {
+   "year": 1672,
+   "date": "1672",
+   "era": "pendulum",
+   "art": "earth",
+   "title": "A clock that ran slow near the equator",
+   "who": "Jean Richer",
+   "where": "Cayenne, French Guiana",
+   "country": "French Guiana",
+   "text": "The French astronomer Jean Richer took a pendulum clock from Paris to Cayenne, near the equator. There it lost about two and a half minutes a day. He had to shorten the pendulum by 1.25 lignes, a little under 3 mm, to make it keep time. Newton and Huygens used the result to argue that the Earth bulges at the equator.",
+   "why": "A clock showed that gravity is not the same everywhere, and that the Earth is not a perfect ball.",
+   "box": "pendulum",
+   "sources": [
+    16
+   ]
+  },
+  {
+   "year": 1676,
+   "date": "c. 1676 (late 1600s)",
+   "era": "pendulum",
+   "art": "hammer",
+   "title": "Striking that cannot lose count",
+   "who": "Unknown inventor (long credited to Edward Barlow)",
+   "where": "England",
+   "country": "United Kingdom",
+   "text": "Older clocks counted their strikes with a notched wheel, so the bell could drift out of step with the hands. Rack and snail striking reads the hour from a stepped cam that turns with the hour hand, so the count is always right. For years books said the priest Edward Barlow invented it in 1675 or 1676. Historians now say the inventor is unknown.",
+   "why": "It is the striking system still used in chiming wall and mantel clocks.",
+   "box": "hands",
+   "sources": [
+    17
+   ]
+  },
+  {
+   "year": 1715,
+   "date": "c. 1715–1726",
+   "era": "pendulum",
+   "art": "gear",
+   "title": "Beating friction and the weather",
+   "who": "George Graham and John Harrison (deadbeat first made by Richard Towneley and Thomas Tompion)",
+   "where": "London and Lincolnshire, England",
+   "country": "United Kingdom",
+   "text": "Around 1715 George Graham began using the deadbeat escapement, which does not push the wheels backwards at each tick. It was first devised about 1675 by Richard Towneley. Heat makes a pendulum rod longer and the clock slower, so in 1721 Graham added a jar of mercury that rises as the rod grows. Around 1726 John Harrison did the same job with a gridiron of brass and iron rods.",
+   "why": "The best clocks now kept time to about a second a day, summer and winter.",
+   "box": "escapement",
+   "sources": [
+    14,
+    18,
+    12,
+    2
+   ]
+  },
+  {
+   "year": 1734,
+   "date": "c. 1728–1734",
+   "era": "pendulum",
+   "art": "eye",
+   "key": true,
+   "title": "The giant sundial of Jaipur",
+   "who": "Sawai Jai Singh II",
+   "where": "Jantar Mantar, Jaipur, India",
+   "country": "India",
+   "text": "The king and astronomer Jai Singh II built observatories in five Indian cities. The one at Jaipur, completed in 1734, has 19 instruments of stone and brass. Its great sundial, the Vrihat Samrat Yantra, is 27 m tall. The shadow moves fast enough to see, and the dial is said to tell local time to about two seconds.",
+   "why": "It is one of the largest sundials in the world, built while Europe was perfecting pendulum clocks, and is a UNESCO World Heritage site.",
+   "sources": [
+    21,
+    22
+   ]
+  },
+  {
+   "year": 1740,
+   "date": "c. 1730s–1740s",
+   "era": "pendulum",
+   "art": "window",
+   "title": "The cuckoo clock",
+   "who": "Black Forest clockmakers",
+   "where": "Black Forest, Germany",
+   "country": "Germany",
+   "text": "A clock with a calling cuckoo was described in Dresden as early as 1629. In the Black Forest, farmers who made wooden clocks in winter began adding the bird, with two small bellows for its call. A legend credits Franz Anton Ketterer in about 1730, but he was born in 1734. Another account says makers copied a clock sold by a travelling merchant around 1742.",
+   "why": "It became the most famous wall clock in the world, and it is still a weight, a pendulum and a train of gears.",
+   "sources": [
+    23
+   ]
+  },
+  {
+   "year": 1761,
+   "date": "1761–1762",
+   "era": "pendulum",
+   "art": "boat",
+   "key": true,
+   "title": "A watch that found longitude",
+   "who": "John Harrison and his son William",
+   "where": "Portsmouth, England, to Jamaica",
+   "country": "United Kingdom",
+   "text": "A pendulum is useless on a rolling ship, yet sailors needed the exact time to find their longitude. The carpenter John Harrison brought his first sea clock, H1, to London in 1735. His fourth, the watch H4, was finished in 1759. It sailed for Jamaica in November 1761 and after 81 days was only about 5 seconds slow.",
+   "why": "An error of 5 seconds is about one nautical mile, so ships could at last know where they were.",
+   "sources": [
+    19,
+    20
+   ]
+  },
+  {
+   "year": 1807,
+   "date": "1806–1814",
+   "era": "public",
+   "art": "wrench",
+   "title": "Clocks from a factory",
+   "who": "Eli Terry, with Seth Thomas and Silas Hoadley",
+   "where": "Plymouth, Connecticut, USA",
+   "country": "United States",
+   "text": "Eli Terry signed a contract, dated 1806 or 1807, to make 4,000 wooden clock movements in three years. Most clockmakers then made a few clocks a year. He built water-powered machines that cut parts so alike that any one fitted any clock, and finished the order. From 1814 his cheap shelf clocks poured out of the factory.",
+   "why": "It was one of the first uses of interchangeable parts, and it made a clock something an ordinary family could buy.",
+   "box": "train",
+   "sources": [
+    24,
+    25
+   ]
+  },
+  {
+   "year": 1859,
+   "date": "31 May 1859",
+   "era": "public",
+   "art": "building",
+   "key": true,
+   "title": "The Great Clock of Westminster",
+   "who": "Edmund Beckett Denison, George Airy, Edward and Frederick Dent",
+   "where": "London, England",
+   "country": "United Kingdom",
+   "text": "The clock in the tower of Britain's Parliament had to strike the hour correct to within one second, with hands battered by wind and snow. Denison, a lawyer and amateur clockmaker, invented the double three-legged gravity escapement for it. Small arms are lifted by the clock, then fall and push the pendulum with the same force every time. The clock started on 31 May 1859, and the great bell, Big Ben, first struck on 11 July.",
+   "why": "It proved a huge public clock could be very accurate, and its escapement was copied in tower clocks around the world.",
+   "box": "escapement",
+   "sources": [
+    26,
+    27
+   ]
+  },
+  {
+   "year": 1878,
+   "date": "November 1878",
+   "era": "public",
+   "art": "building",
+   "title": "The Rajabai Clock Tower",
+   "who": "George Gilbert Scott (architect); Premchand Roychand (donor)",
+   "where": "University of Mumbai, India",
+   "country": "India",
+   "text": "The English architect George Gilbert Scott designed this 85 m tower for the University of Bombay and modelled it on Big Ben. The foundation stone was laid on 1 March 1869 and the tower was completed in November 1878, at a reported cost of 550,000 rupees. The broker Premchand Roychand helped pay for it and asked that it be named after his mother, Rajabai.",
+   "why": "For years it was the tallest building in the city, and its clock and chimes told Bombay the time.",
+   "box": "hands",
+   "sources": [
+    28
+   ]
+  },
+  {
+   "year": 1884,
+   "date": "October 1884",
+   "era": "public",
+   "art": "earth",
+   "title": "The world agrees where time starts",
+   "who": "International Meridian Conference",
+   "where": "Washington, DC, USA",
+   "country": "United States",
+   "text": "Every town once set its clocks by its own noon, which was chaos for railways. American railways switched to standard time zones on 18 November 1883. A year later 41 delegates from 26 countries voted 22 to 1 to count longitude from Greenwich. The conference did not create time zones itself: countries adopted them one by one.",
+   "why": "Clocks far apart could now be set to agree, which is what a wall clock in a station or school is for.",
+   "sources": [
+    30
+   ]
+  },
+  {
+   "year": 1896,
+   "date": "1895–1898",
+   "era": "public",
+   "art": "block",
+   "title": "A metal that barely grows",
+   "who": "Charles Édouard Guillaume; Sigmund Riefler",
+   "where": "Sèvres, France, and Munich, Germany",
+   "country": "France",
+   "text": "The Swiss physicist Guillaume found that an alloy of iron with about 36% nickel hardly expands when heated. It was named invar; Wikipedia dates the discovery to 1895, and many accounts give 1896. In 1898 the Riefler firm in Germany put an invar pendulum in a clock. Riefler clocks kept time to about a hundredth of a second a day, and Guillaume won the 1920 Nobel Prize in Physics.",
+   "why": "It solved the temperature problem that Graham and Harrison had fought with mercury and gridirons.",
+   "box": "pendulum",
+   "sources": [
+    31,
+    2
+   ]
+  },
+  {
+   "year": 1906,
+   "date": "1 January 1906",
+   "era": "public",
+   "art": "compass",
+   "title": "Indian Standard Time",
+   "who": "Government of British India; today CSIR-National Physical Laboratory",
+   "where": "India",
+   "country": "India",
+   "text": "India set one standard time on 1 January 1906, five and a half hours ahead of Greenwich, based on longitude 82.5° East near Mirzapur. Calcutta and Bombay kept their own local times for decades. IST became the official time of independent India on 1 September 1947. Today it is kept by atomic clocks at the CSIR-National Physical Laboratory in New Delhi.",
+   "why": "It is the time every wall clock in India is set to.",
+   "sources": [
+    32,
+    33
+   ]
+  },
+  {
+   "year": 1921,
+   "date": "1921",
+   "era": "public",
+   "art": "pendulum",
+   "title": "The best pendulum clock ever made",
+   "who": "William Hamilton Shortt and Frank Hope-Jones",
+   "where": "London, England",
+   "country": "United Kingdom",
+   "text": "The railway engineer William Shortt built a clock with two pendulums. One swung almost freely in a vacuum tank and did no work. A second clock did all the counting and gave the free pendulum a tiny push every 30 seconds. Shortt clocks kept time to about a second a year, and about 100 were made for observatories.",
+   "why": "It was the limit of what a pendulum can do: a 1984 test found one sensitive enough to feel the tides in the solid Earth.",
+   "box": "pendulum",
+   "sources": [
+    34,
+    2
+   ]
+  },
+  {
+   "year": 1927,
+   "date": "October 1927",
+   "era": "atoms",
+   "art": "tuningfork",
+   "key": true,
+   "title": "The first quartz clock",
+   "who": "Warren Marrison and Joseph W. Horton",
+   "where": "Bell Telephone Laboratories, New York, USA",
+   "country": "United States",
+   "text": "A slice of quartz crystal vibrates at a very steady rate when electricity is applied. Marrison, a Canadian engineer, and Horton used a crystal vibrating 50,000 times a second and divided that down electronically until it could drive a clock. The first quartz clock filled a rack of equipment. By the 1930s and 1940s quartz clocks had replaced pendulums as time standards.",
+   "why": "A vibrating crystal took over the pendulum's job, and it does the same in almost every wall clock sold today.",
+   "box": "quartz",
+   "sources": [
+    35,
+    36
+   ]
+  },
+  {
+   "year": 1955,
+   "date": "1955 (second redefined 1967)",
+   "era": "atoms",
+   "art": "orbit",
+   "key": true,
+   "title": "The atomic clock",
+   "who": "Louis Essen and Jack Parry",
+   "where": "National Physical Laboratory, Teddington, England",
+   "country": "United Kingdom",
+   "text": "Essen and Parry built the first practical clock tuned to caesium atoms. It was accurate to a second in 300 years, about 30 times better than the quartz clocks of the day. In 1967 the world's measurement body redefined the second as 9,192,631,770 vibrations of the caesium atom, instead of a fraction of the Earth's turning.",
+   "why": "Atomic clocks are steadier than the spinning Earth, so time is now defined by atoms, not by the sky.",
+   "sources": [
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "year": 1961,
+   "date": "1961",
+   "era": "wall",
+   "art": "gear",
+   "title": "India makes its own watches",
+   "who": "HMT (Hindustan Machine Tools) with Citizen Watch",
+   "where": "Bangalore, India",
+   "country": "India",
+   "text": "The state-owned HMT set up a watch factory in Bangalore in 1961 with technology from Japan's Citizen. Prime Minister Jawaharlal Nehru released the first batch of hand-wound watches. The Janata became its best-known model. The watch division closed in 2016.",
+   "why": "For a generation of Indians, an HMT was the first watch they owned.",
+   "sources": [
+    40
+   ]
+  },
+  {
+   "year": 1969,
+   "date": "25 December 1969",
+   "era": "wall",
+   "art": "chip",
+   "title": "Quartz shrinks to the wrist",
+   "who": "Seiko",
+   "where": "Tokyo, Japan",
+   "country": "Japan",
+   "text": "Seiko put the Quartz Astron on sale in Tokyo, the first quartz wristwatch sold to the public. Seiko says it kept time to within 5 seconds a month, far better than mechanical watches. Its tiny tuning-fork crystal and stepping motor became the pattern for the quartz movements that spread through watches and wall clocks in the 1970s and 1980s.",
+   "why": "The same small parts, a crystal, a chip and a stepping motor, now sit behind the dial of a cheap wall clock.",
+   "box": "quartz",
+   "sources": [
+    41,
+    35
+   ]
+  },
+  {
+   "year": 1971,
+   "date": "1971",
+   "era": "wall",
+   "art": "battery",
+   "key": true,
+   "title": "Morbi, the clock town",
+   "who": "Odhavji Raghavji Patel and Ajanta",
+   "where": "Morbi, Gujarat, India",
+   "country": "India",
+   "text": "Odhavji Patel, a school science teacher in Morbi, and a few partners pooled 1 lakh rupees in 1971 to start the Ajanta Transistor Clock Manufacturing Company. After early losses he brought quartz clock technology from Japan and Taiwan, reportedly in 1975, and made the parts in-house from 1985. Ajanta, and the Orpat brand that followed, describe themselves as the world's largest wall clock maker.",
+   "why": "Cheap battery wall clocks from Morbi hang in homes, shops and schools across India and in dozens of other countries.",
+   "box": "quartz",
+   "sources": [
+    42,
+    43
+   ]
+  },
+  {
+   "year": 2024,
+   "date": "July 2024",
+   "era": "atoms",
+   "art": "sinewave",
+   "title": "A clock that outlasts the universe",
+   "who": "Jun Ye's team at JILA (NIST and University of Colorado Boulder)",
+   "where": "Boulder, Colorado, USA",
+   "country": "United States",
+   "text": "The newest clocks hold tens of thousands of strontium atoms in a web of laser light and count the vibrations of visible light, far faster than quartz or caesium. In 2024 a JILA team reported one with a systematic uncertainty of about 8 parts in 10 billion billion. NIST says such a clock would lose only one second every 30 billion years, more than twice the age of the universe.",
+   "why": "Clocks this good can feel gravity change over less than a millimetre of height, and may soon redefine the second again.",
+   "sources": [
+    44
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Oldest surviving water clock",
+   "value": "c. 1400 BCE",
+   "who": "Karnak, Egypt (reign of Amenhotep III)"
+  },
+  {
+   "label": "Water-wheel clock tower with a chain drive",
+   "value": "1088–1094",
+   "who": "Su Song, China"
+  },
+  {
+   "label": "All-mechanical clocks (verge and foliot)",
+   "value": "c. 1270–1300",
+   "who": "Unknown makers, Europe"
+  },
+  {
+   "label": "Working pendulum clock",
+   "value": "1656",
+   "who": "Christiaan Huygens, Dutch Republic"
+  },
+  {
+   "label": "Oldest known anchor escapement clock",
+   "value": "1670",
+   "who": "Wadham College clock, probably Joseph Knibb, England"
+  },
+  {
+   "label": "Watch accurate enough to find longitude",
+   "value": "1761–62",
+   "who": "John Harrison's H4, England"
+  },
+  {
+   "label": "Quartz clock",
+   "value": "1927",
+   "who": "Warren Marrison and J. W. Horton, USA"
+  },
+  {
+   "label": "Practical caesium atomic clock",
+   "value": "1955",
+   "who": "Louis Essen and Jack Parry, UK"
+  },
+  {
+   "label": "Quartz wristwatch on sale",
+   "value": "1969",
+   "who": "Seiko Quartz Astron, Japan"
+  }
+ ],
+ "people": [
+  {
+   "name": "Su Song",
+   "life": "1020 – 1101",
+   "role": "Official, astronomer and engineer",
+   "from": "China",
+   "note": "Built the water-driven clock tower at Kaifeng and wrote the book that lets us rebuild it."
+  },
+  {
+   "name": "Ismail al-Jazari",
+   "life": "1136 – 1206",
+   "role": "Engineer",
+   "from": "Upper Mesopotamia (today Turkey)",
+   "note": "Described the elephant clock and castle clock in his 1206 book of ingenious machines."
+  },
+  {
+   "name": "Christiaan Huygens",
+   "life": "1629 – 1695",
+   "role": "Mathematician and physicist",
+   "from": "Dutch Republic",
+   "note": "Invented the pendulum clock in 1656 and worked out the mathematics of the swing."
+  },
+  {
+   "name": "Jean Richer",
+   "life": "1630 – 1696",
+   "role": "Astronomer",
+   "from": "France",
+   "note": "Found in 1672 that a pendulum clock runs slow near the equator, the first sign that gravity varies."
+  },
+  {
+   "name": "George Graham",
+   "life": "c. 1673 – 1751",
+   "role": "Clockmaker",
+   "from": "England",
+   "note": "Made the deadbeat escapement and mercury pendulum standard, and lent John Harrison money without interest."
+  },
+  {
+   "name": "Sawai Jai Singh II",
+   "life": "1688 – 1743",
+   "role": "King and astronomer",
+   "from": "India",
+   "note": "Founded Jaipur and built five stone observatories, including the 27 m Samrat Yantra sundial."
+  },
+  {
+   "name": "John Harrison",
+   "life": "1693 – 1776",
+   "role": "Carpenter and clockmaker",
+   "from": "England",
+   "note": "Invented the gridiron pendulum and built H4, the watch that solved the longitude problem."
+  },
+  {
+   "name": "Eli Terry",
+   "life": "1772 – 1852",
+   "role": "Clockmaker and manufacturer",
+   "from": "USA",
+   "note": "Made clocks in a factory from interchangeable parts, so ordinary families could afford one."
+  },
+  {
+   "name": "Ruth Belville",
+   "life": "1854 – 1943",
+   "role": "Seller of time",
+   "from": "England",
+   "note": "Carried a watch set at Greenwich around London to sell the correct time, as her mother Maria had, until 1940."
+  },
+  {
+   "name": "Warren Marrison",
+   "life": "1896 – 1980",
+   "role": "Engineer",
+   "from": "Canada and USA",
+   "note": "Built the first quartz clock at Bell Laboratories in 1927 with J. W. Horton."
+  },
+  {
+   "name": "Louis Essen",
+   "life": "1908 – 1997",
+   "role": "Physicist",
+   "from": "England",
+   "note": "Built the first practical caesium atomic clock in 1955 with Jack Parry."
+  },
+  {
+   "name": "Odhavji Raghavji Patel",
+   "life": "1925 – 2012",
+   "role": "Teacher and clock manufacturer",
+   "from": "India",
+   "note": "A science teacher from Morbi who founded Ajanta in 1971 and is called the father of wall clocks in India."
+  }
+ ],
+ "series": [
+  {
+   "id": "drift",
+   "title": "How far the best clock drifted in a day",
+   "unit": "seconds per day",
+   "log": true,
+   "after": "atoms",
+   "caption": "Each new idea, the pendulum, temperature-proof rods, quartz, then atoms, cut the daily error of the best clock by ten times or more. The scale is logarithmic: each step down is ten times better.",
+   "points": [
+    {
+     "year": 1650,
+     "value": 900,
+     "label": "Best verge and foliot clocks, mid-1600s: about 15 minutes a day (Wikipedia, Verge escapement)"
+    },
+    {
+     "year": 1657,
+     "value": 15,
+     "label": "Huygens's pendulum clock: about 15 seconds a day (Wikipedia; NIST says under 1 minute at first, later under 10 seconds)"
+    },
+    {
+     "year": 1721,
+     "value": 1,
+     "label": "Graham's clock with mercury pendulum: about 1 second a day (NIST)"
+    },
+    {
+     "year": 1889,
+     "value": 0.01,
+     "label": "Riefler clock: about a hundredth of a second a day (NIST)"
+    },
+    {
+     "year": 1921,
+     "value": 0.0027,
+     "label": "Shortt free pendulum clock: about 1 second a year (Wikipedia, Shortt-Synchronome clock)"
+    },
+    {
+     "year": 1955,
+     "value": 9.1e-06,
+     "label": "First caesium clock: 1 second in 300 years (Science Museum Group)"
+    },
+    {
+     "year": 2024,
+     "value": 9.1e-14,
+     "label": "JILA strontium lattice clock: 1 second in 30 billion years (NIST)"
+    }
+   ]
+  }
+ ],
+ "facts": [
+  "The Salisbury Cathedral clock of about 1386 has no dial and no hands. It only strikes a bell.",
+  "Jean Richer's clock lost about two and a half minutes a day in Cayenne in 1672, because gravity is slightly weaker near the equator.",
+  "The Great Clock of Westminster is fine-tuned with old pennies on its pendulum: adding one changes its rate by 0.4 seconds a day.",
+  "From 1892 to 1940 Ruth Belville carried a watch set at Greenwich around London and sold people the correct time.",
+  "Almost every quartz clock uses a crystal that vibrates 32,768 times a second. That is 2 multiplied by itself 15 times, so a chip can halve it 15 times to get one tick a second.",
+  "Franz Anton Ketterer, long named as the inventor of the cuckoo clock in about 1730, was not born until 1734."
+ ],
+ "sources": [
+  {
+   "title": "History of timekeeping devices",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_timekeeping_devices"
+  },
+  {
+   "title": "A Walk Through Time: Early Clocks",
+   "publisher": "National Institute of Standards and Technology (NIST)",
+   "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/walk-through-time/walk-through-time-early-clocks"
+  },
+  {
+   "title": "A Walk Through Time: A Revolution in Timekeeping",
+   "publisher": "National Institute of Standards and Technology (NIST)",
+   "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/walk-through-time/walk-through-time-revolution"
+  },
+  {
+   "title": "Water clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Water_clock"
+  },
+  {
+   "title": "Hindu units of time",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hindu_units_of_time"
+  },
+  {
+   "title": "Su Song",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Su_Song"
+  },
+  {
+   "title": "Elephant clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Elephant_clock"
+  },
+  {
+   "title": "\"The Elephant Clock\", Folio from a Book of the Knowledge of Ingenious Mechanical Devices by al-Jazari",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/art/collection/search/451402"
+  },
+  {
+   "title": "Verge escapement",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Verge_escapement"
+  },
+  {
+   "title": "Salisbury Cathedral clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Salisbury_Cathedral_clock"
+  },
+  {
+   "title": "Peter Henlein",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Peter_Henlein"
+  },
+  {
+   "title": "Galileo's escapement",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Galileo%27s_escapement"
+  },
+  {
+   "title": "Pendulum clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pendulum_clock"
+  },
+  {
+   "title": "Oldest pendulum clock",
+   "publisher": "Guinness World Records",
+   "url": "https://www.guinnessworldrecords.com/world-records/752621-oldest-pendulum-clock"
+  },
+  {
+   "title": "Anchor escapement",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Anchor_escapement"
+  },
+  {
+   "title": "Works of clock (dated 1671) removed from St. Giles Church, by William Clement",
+   "publisher": "Science Museum Group Collection",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co469/works-of-clock-dated-1671-removed-from-st-giles-church"
+  },
+  {
+   "title": "Jean Richer",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jean_Richer"
+  },
+  {
+   "title": "Striking clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Striking_clock"
+  },
+  {
+   "title": "George Graham (clockmaker)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/George_Graham_(clockmaker)"
+  },
+  {
+   "title": "John Harrison",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/John_Harrison"
+  },
+  {
+   "title": "Who was John Harrison?",
+   "publisher": "Royal Museums Greenwich",
+   "url": "https://www.rmg.co.uk/discover/explore/longitude-found-john-harrison"
+  },
+  {
+   "title": "Jantar Mantar, Jaipur",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur"
+  },
+  {
+   "title": "The Jantar Mantar, Jaipur",
+   "publisher": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1338/"
+  },
+  {
+   "title": "Cuckoo clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cuckoo_clock"
+  },
+  {
+   "title": "Eli Terry",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eli_Terry"
+  },
+  {
+   "title": "Marking Time",
+   "publisher": "Connecticut Public",
+   "url": "https://www.ctpublic.org/arts-and-culture/2012-12-29/marking-time"
+  },
+  {
+   "title": "Big Ben",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Big_Ben"
+  },
+  {
+   "title": "The escapement of Big Ben",
+   "publisher": "The Seiko Museum Ginza",
+   "url": "https://museum.seiko.co.jp/en/knowledge/MechanicalTimepieces10/"
+  },
+  {
+   "title": "Rajabai Clock Tower",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rajabai_Clock_Tower"
+  },
+  {
+   "title": "Ruth Belville",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ruth_Belville"
+  },
+  {
+   "title": "International Meridian Conference",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/International_Meridian_Conference"
+  },
+  {
+   "title": "Invar",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Invar"
+  },
+  {
+   "title": "Indian Standard Time",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Indian_Standard_Time"
+  },
+  {
+   "title": "Indian Standard Time Metrology Division",
+   "publisher": "CSIR-National Physical Laboratory, India",
+   "url": "https://www.nplindia.in/index.php/science-technology/indian-standard-time-metrology-division_hindi/"
+  },
+  {
+   "title": "Shortt-Synchronome clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shortt%E2%80%93Synchronome_clock"
+  },
+  {
+   "title": "Quartz clock",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quartz_clock"
+  },
+  {
+   "title": "First quartz clock",
+   "publisher": "Guinness World Records",
+   "url": "https://www.guinnessworldrecords.com/world-records/754830-first-quartz-clock"
+  },
+  {
+   "title": "Caesium atomic clock, 1955",
+   "publisher": "Science Museum Group Collection",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co855/caesium-atomic-clock-1955"
+  },
+  {
+   "title": "Louis Essen",
+   "publisher": "National Physical Laboratory (NPL), UK",
+   "url": "https://www.npl.co.uk/famous-faces/louis-essen"
+  },
+  {
+   "title": "The second: history of the SI unit of time",
+   "publisher": "Bureau International des Poids et Mesures (BIPM)",
+   "url": "https://www.bipm.org/en/history-si/second"
+  },
+  {
+   "title": "HMT Limited",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/HMT_Limited"
+  },
+  {
+   "title": "Seiko Quartz Astron 35SQ",
+   "publisher": "The Seiko Museum Ginza",
+   "url": "https://museum.seiko.co.jp/en/collections/watch_latestage/collect020/"
+  },
+  {
+   "title": "Odhavaji Raghavji Patel",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Odhavaji_Raghavji_Patel"
+  },
+  {
+   "title": "Ajanta and Orpat: the story of Odhavji Raghavji Patel",
+   "publisher": "The Better India",
+   "url": "https://thebetterindia.com/251004/ajanta-orpat-odhavji-raghavji-patel-gujarat-great-indian-manufacturing-wall-clocks-calculator-made-in-india-gim-nostalgia-vid01"
+  },
+  {
+   "title": "World's Most Accurate and Precise Atomic Clock Pushes New Frontiers in Physics",
+   "publisher": "National Institute of Standards and Technology (NIST)",
+   "url": "https://www.nist.gov/news-events/news/2024/07/worlds-most-accurate-and-precise-atomic-clock-pushes-new-frontiers-physics"
+  }
+ ]
+}

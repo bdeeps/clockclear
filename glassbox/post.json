@@ -1,0 +1,126 @@
+{
+  "slug": "clockclear",
+  "box": 135,
+  "question": "How does a wall clock work?",
+  "url": "https://glassbox.how/e/clockclear/",
+  "app": "https://glassbox.how/clockclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "3,500 years from a shadow on the ground in Egypt to the quartz clock on your wall and atoms that count the second.\n\n1500 BCE: Reading the time from a shadow\n1088: A clock tower run by a water wheel\n1283: The first clocks that tick\n1656: The pendulum clock\n1670: The anchor escapement\n1734: The giant sundial of Jaipur\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/clockclear/history (link in bio)\n\nThen play with how it works: glassbox.how/clockclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #clock #pendulum #escapement #gears #geartrain #timekeeping #history",
+      "youtube": {
+        "title": "The history of the clock in 45 seconds #shorts",
+        "description": "3,500 years from a shadow on the ground in Egypt to the quartz clock on your wall and atoms that count the second.\n\n1500 BCE · Reading the time from a shadow (Ancient Egyptians)\n1088 · A clock tower run by a water wheel (Su Song and his team)\n1283 · The first clocks that tick (Unknown clockmakers)\n1656 · The pendulum clock (Christiaan Huygens and Salomon Coster)\n1670 · The anchor escapement (Joseph Knibb or William Clement (Robert Hooke also claimed))\n1734 · The giant sundial of Jaipur (Sawai Jai Singh II)\n\n▶ Full history: https://glassbox.how/e/clockclear/history/\n▶ Play with it: https://glassbox.how/e/clockclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a wall clock work?\n\nA falling weight, a train of gears, and a pendulum that lets them move one tooth per swing. Take a clock apart in 3D, follow the escapement tick by tick, and see why a hot day makes it lose ten seconds.\n\n→ A pendulum clock does not measure time. It counts swings.\n→ Inside: a falling weight, a train of gears, an escapement and a pendulum.\n→ A pendulum 99.4 cm long takes exactly one second per swing, whatever its bob weighs.\n→ Its timing depends only on length and gravity: make it a quarter as long and it ticks twice as fast.\n→ The escapement lets the gears move one tooth per swing: lock, push, drop, tick.\n\nPlay with it yourself. It's free and open source: glassbox.how/clockclear (link in bio)\n\nBox No. 135 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #clock #pendulum #escapement #gears #geartrain #timekeeping #quartzclock #horology #threejs",
+    "carousel": "Swipe through: How does a wall clock work?\n\nA falling weight, a train of gears, and a pendulum that lets them move one tooth per swing. Take a clock apart in 3D, follow the escapement tick by tick, and see why a hot day makes it lose ten seconds.\n\nSave this for later, then play with the interactive version at glassbox.how/clockclear (link in bio).\n\nBox No. 135 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #clock #pendulum #escapement #gears #geartrain #timekeeping",
+    "youtube": {
+      "title": "How does a wall clock work? #shorts",
+      "description": "A falling weight, a train of gears, and a pendulum that lets them move one tooth per swing. Take a clock apart in 3D, follow the escapement tick by tick, and see why a hot day makes it lose ten seconds.\n\n▶ Play with it: https://glassbox.how/e/clockclear/\n⌘ Source code (MIT): https://github.com/bdeeps/clockclear\n\nBox No. 135 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a wall clock work? (interactive explainer)",
+      "description": "A falling weight, a train of gears, and a pendulum that lets them move one tooth per swing. Take a clock apart in 3D, follow the escapement tick by tick, and see why a hot day makes it lose ten seconds.\n\n▶ Play with the interactive version: https://glassbox.how/e/clockclear/\n⌘ Source code (MIT): https://github.com/bdeeps/clockclear\n\nIn this video:\n• A clock counts swings. A pendulum clock has five parts in a row: a weight or spring for power, a train of gears, an escapement, a pendulum and the hands.\n• The pendulum keeps the beat. A pendulum's period is 2π times the square root of its length over gravity.\n• The escapement: lock, push, drop. The anchor rocks with the pendulum and catches the escape wheel's teeth on two pallets.\n• Gears do the arithmetic. Wheels of 96, 60 and 56 teeth drive pinions of 8, 8 and 7.\n• Two hands, one centre, and a bell. Behind the dial, four wheels (36, 36, 6 and 72 teeth) turn the hour hand exactly 12 times slower than the minute hand around the same centre.\n• The clock on your wall. Most wall clocks now replace the pendulum with a quartz crystal vibrating 32,768 times a second.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a wall clock work?\n\nA falling weight, a train of gears, and a pendulum that lets them move one tooth per swing.\n\nPlay with it: https://glassbox.how/e/clockclear/",
+    "linkedin": "How does a wall clock work?\n\nA falling weight, a train of gears, and a pendulum that lets them move one tooth per swing. Take a clock apart in 3D, follow the escapement tick by tick, and see why a hot day makes it lose ten seconds.\n\n1. A clock counts swings\n2. The pendulum keeps the beat\n3. The escapement: lock, push, drop\n4. Gears do the arithmetic\n5. Two hands, one centre, and a bell\n6. The clock on your wall\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 135 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/clockclear/\nCode: https://github.com/bdeeps/clockclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T08:11:17.778Z"
+}
